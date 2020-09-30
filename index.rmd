@@ -9,7 +9,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cartalk.com%2F&psig=AOvVaw20GIX592_70Zdb1fHx50s3&ust=1601518400793000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCODIiZPnj-wCFQAAAAAdAAAAABAD)
+![](https://www.datocms-assets.com/27230/1594931654-mod-unicar.jpg)
 
 ## R Markdown
 
